@@ -1,0 +1,7 @@
+{
+  "name": "Maxima Lab Warehouse Management",
+  "description": "A professional warehouse management system for Maxima Clinical Laboratory to track medical supplies, inbound/outbound transactions, stock alerts, and expiry dates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
